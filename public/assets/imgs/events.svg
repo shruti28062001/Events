@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="273" height="150" viewBox="0 0 273 150">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 63.555px;
+        fill: #0b2d8c;
+        text-anchor: middle;
+        font-family: "Tw Cen MT";
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="Events" class="cls-1" transform="translate(134.628 106.121) scale(1.56)"><tspan x="0">Events</tspan></text>
+</svg>
